@@ -11,7 +11,7 @@ spec:
   name: dev-lambda
   packageType: Image
   code:
-    imageURI: 897729104724.dkr.ecr.us-west-2.amazonaws.com/dev/lambda:40aa3cdc
+    imageURI: 897729104724.dkr.ecr.us-west-2.amazonaws.com/dev/lambda:8b168639
   role: arn:aws:iam::897729104724:role/dev-lambda-execution-role
   description: function created by ACK lambda-controller
   timeout: 30

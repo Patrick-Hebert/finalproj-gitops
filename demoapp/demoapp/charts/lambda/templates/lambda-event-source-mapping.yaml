@@ -10,5 +10,5 @@ metadata:
     services.k8s.aws/region: us-west-2
 spec:
   functionName: dev-lambda
-  eventSourceARN: arn:aws:sqs:us-west-2:897729104724:dev-conversion-to-pdf--20250503005914398200000006.fifo
+  eventSourceARN: arn:aws:sqs:us-west-2:897729104724:dev-conversion-to-pdf--20250507041644562500000004.fifo
   batchSize: 10
